@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "口がすべって",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-15T05:35:26.900845Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "口がすべって",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_口がすべって_Mr.Children.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "口がすべって",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_口がすべって_Mr.Children.txt"
+    }
+  ]
+}
